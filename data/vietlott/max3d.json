@@ -1,9 +1,17 @@
 {
   "schema": 1,
   "game": "max3d",
-  "updatedAt": "2026-09-11T11:17:35.431Z",
+  "updatedAt": "2026-09-11T12:23:12.196Z",
   "source": "Vietlott Worker",
   "draws": [
+    {
+      "id": "#01131",
+      "date": "11/09/2026",
+      "numbers": [
+        "291"
+      ],
+      "jackpot": null
+    },
     {
       "id": "#01130",
       "date": "09/09/2026",
