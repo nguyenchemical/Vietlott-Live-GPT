@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "game": "max3d",
+  "updatedAt": "2026-09-11T11:17:35.431Z",
+  "source": "Vietlott Worker",
+  "draws": [
+    {
+      "id": "#01130",
+      "date": "09/09/2026",
+      "numbers": [
+        "757"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01129",
+      "date": "07/09/2026",
+      "numbers": [
+        "057"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01128",
+      "date": "04/09/2026",
+      "numbers": [
+        "397"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01127",
+      "date": "02/09/2026",
+      "numbers": [
+        "367"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01126",
+      "date": "31/08/2026",
+      "numbers": [
+        "635"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01125",
+      "date": "28/08/2026",
+      "numbers": [
+        "264"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01124",
+      "date": "26/08/2026",
+      "numbers": [
+        "109"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01123",
+      "date": "24/08/2026",
+      "numbers": [
+        "284"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01122",
+      "date": "21/08/2026",
+      "numbers": [
+        "294"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01121",
+      "date": "19/08/2026",
+      "numbers": [
+        "991"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01120",
+      "date": "17/08/2026",
+      "numbers": [
+        "321"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01119",
+      "date": "14/08/2026",
+      "numbers": [
+        "818"
+      ],
+      "jackpot": null
+    },
+    {
+      "id": "#01118",
+      "date": "12/08/2026",
+      "numbers": [
+        "984"
+      ],
+      "jackpot": null
+    }
+  ]
+}
